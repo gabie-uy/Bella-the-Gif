@@ -1,3 +1,7 @@
+# Codédex & GitHub: @gabizzle
+# Date: 09/09/2021
+# Project for The Legend of Python
+
 import imageio.v3 as iio
 
 filenames = ['lazy-bella-1.dng', 'lazy-bella-2.dng', 'lazy-bella-3.dng', 'lazy-bella-4.dng']
