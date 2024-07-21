@@ -10,4 +10,4 @@ images = [ ]
 for filename in filenames:
   images.append(iio.imread(filename))
 
-iio.imwrite('lazy-bella.gif', images, duration = 1200, loop = 0)
+iio.imwrite('lazy-bella.gif', images, duration = 1000, loop = 0)
